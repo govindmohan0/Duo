@@ -1,2 +1,2 @@
-# Duo
-a cumulation of HTML, CSS and JS
+# **Duo**
+_A cumulation of HTML, CSS and JS_
